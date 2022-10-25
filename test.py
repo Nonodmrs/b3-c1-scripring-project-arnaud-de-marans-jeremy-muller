@@ -11,3 +11,4 @@ with open ('conso-annuelles_v1.csv',newline='') as f: #ouverture du fichier csv
         print(ligne, end='\n')                        # afficher la ligne dans la console
         tableau.append(ligne)                         # ajouter la ligne dans la liste
                                                       # liste   nommée tableau
+test
